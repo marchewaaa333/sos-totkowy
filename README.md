@@ -1,6 +1,6 @@
 
 # sos totkowy
-
+![xdxd](https://develey.pl/sites/default/files/styles/large/public/2021-11/Develey-sos-czosnkowy-410g.png?itok=ll3Wlr2c)
 bardzo "dobrze" zrobiona botterka do testowania serwerów minecraft
 
 
